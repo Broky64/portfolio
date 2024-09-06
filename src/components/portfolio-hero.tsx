@@ -31,7 +31,7 @@ export function PortfolioHero() {
                 src="/placeholder.svg?height=400&width=400"
                 alt="Jane Doe"
                 width={400}
-                height={400}
+                height={600}
                 className="rounded-full"
               />
             </div>
